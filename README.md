@@ -1,2 +1,2 @@
 # HTTP-FLOOD
-basic method flood
+basic method flood + auto proxy
